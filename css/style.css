@@ -55,6 +55,7 @@ body {
   visibility: hidden;
   font-weight: bold;
   text-align: center;
+  color: blue;
 }
 
 .chapter-container {
@@ -144,8 +145,8 @@ a.source:visited {
 
 /* Storymap logo image above the title */
 #logo {
-  height: 500px;
-  line-height: 500px;
+  height: 400px;
+  line-height: 400px;
   text-align: center;
   padding: 10px;
   max-width: 100%;
